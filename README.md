@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>TempTrek</title>
+   
 </head>
 <body>
     <h1>TempTrek Features</h1>
